@@ -12,4 +12,12 @@ They are seperated into three difficulties:
 2. Advanced
 3. Advanced +
 
-Starting with the beginner boxes:
+I'll approach this as a workshop to prepare for OSCP (I have my OSCP certification).
+
+My approach to boxes was to use Autorecon : https://github.com/Tib3rius/AutoRecon for enumeration of the boxes.
+
+Autorecon runs a lot of enum tools.
+
+The most useful results were: nmap, nikto, gobuster.
+
+I didn't need scan results outside of these so far (All Beginner and Advanced boxes complete at time of writing).
