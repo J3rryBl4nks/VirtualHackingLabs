@@ -25,3 +25,5 @@ I didn't need scan results outside of these so far (All Beginner and Advanced bo
 The variation of host types and OSes is very interesting.
 
 Once you start into the Advanced + machines, you get into interesting vectors and privesc.
+
+I did find a recent exploit for an Advanced+ machine that made it trivial, and bypasses the "unhackable" nature of the setup.
