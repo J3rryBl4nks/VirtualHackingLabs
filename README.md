@@ -21,3 +21,7 @@ Autorecon runs a lot of enum tools.
 The most useful results were: nmap, nikto, gobuster.
 
 I didn't need scan results outside of these so far (All Beginner and Advanced boxes complete at time of writing).
+
+The variation of host types and OSes is very interesting.
+
+Once you start into the Advanced + machines, you get into interesting vectors and privesc.
