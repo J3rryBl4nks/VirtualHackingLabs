@@ -20,10 +20,31 @@ Autorecon runs a lot of enum tools.
 
 The most useful results were: nmap, nikto, gobuster.
 
-I didn't need scan results outside of these so far (All Beginner and Advanced boxes complete at time of writing).
+I didn't need scan results outside of these so far (All Beginner, Advanced, and Advanced + boxes (That are in the reset panel) complete at time of writing).
 
 The variation of host types and OSes is very interesting.
 
 Once you start into the Advanced + machines, you get into interesting vectors and privesc.
 
-I did find a recent exploit for an Advanced+ machine that made it trivial, and bypasses the "unhackable" nature of the setup.
+
+Since a lot of people who know about this Github are preparing for OSCP, I thought I would break the boxes down by their relative difficulty compared to OSCP lab and exam boxes. (Caveat is that I took the OSCP exam once, so my impressions are biased by my exam host pod.) Also, the 10 point machines in the exam are as difficult as a normal PWK lab host, so I'll cover 20 pt and 25 pt exam hosts.
+
+## VHL Boxes on par with 20 pt OSCP Exam hosts ##
+Natural
+Dolphin
+BackupAdmin
+TechBlog
+Helpdesk
+Aaron
+Trails
+
+## VHL Boxes on par with 25 pt OSCP Exam hosts ##
+Teamspeak (except for Privesc)
+Trace
+Fed
+CMS02
+MON02
+JS01
+WebSvr01
+
+There is a LOT of kernel privesc in VHL (as I mentioned before), and I didn't find any nearly as much Kernel Privesc in PWK or the OSCP exam.
