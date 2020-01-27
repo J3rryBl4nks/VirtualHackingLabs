@@ -26,8 +26,9 @@ The variation of host types and OSes is very interesting.
 
 Once you start into the Advanced + machines, you get into interesting vectors and privesc.
 
-
 Since a lot of people who know about this Github are preparing for OSCP, I thought I would break the boxes down by their relative difficulty compared to OSCP lab and exam boxes. (Caveat is that I took the OSCP exam once, so my impressions are biased by my exam host pod.) Also, the 10 point machines in the exam are as difficult as a normal PWK lab host, so I'll cover 20 pt and 25 pt exam hosts.
+
+## It should be noted that there are only 2-3 real Windows privesc vectors covered in the labs. For a somewhat more involved Windows Privesc document, see my LPE Workshop writeup. ##
 
 ## VHL Boxes on par with 20 pt OSCP Exam hosts ##
 Natural
