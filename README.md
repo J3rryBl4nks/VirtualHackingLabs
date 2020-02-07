@@ -1,6 +1,6 @@
 ## Virtual Hacking Labs ##
 
-So after passing OSCP and doing some other certs that aren't specifically infosec related (for school) I wanted to get back into hacking non-work related stuff. So I started doing Virtual Hacking Labs:
+So after passing OSCP and doing some other certs that aren't specifically infosec related (for school) I wanted to get back into hacking non-work related stuff. So I started doing Virtual Hacking Labs and received the certificate of completion for both the normal and Advanced + certificates.
 
 https://www.virtualhackinglabs.com/
 
@@ -49,3 +49,8 @@ JS01
 WebSvr01
 
 There is a LOT of kernel privesc in VHL (as I mentioned before), and I didn't find any nearly as much Kernel Privesc in PWK or the OSCP exam.
+
+I decided to do two of the Advanced + machines manually for the certification. I ended up doing the initial exploit, and the privilege escalation manually. I found it not too difficult to do the boxes both 100% manually, but I chose boxes I understood well. Some of the SQL Injection boxes would have been very tiresome to do manually.
+
+Overall I found the boxes to be interesting and entertaining. I feel like VHL is a great investment for OSCP prep and for anyone who is trying to polish their enumeration skills.
+
